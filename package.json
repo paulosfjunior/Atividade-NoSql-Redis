@@ -2,6 +2,9 @@
   "name": "atividade-20190417",
   "version": "0.0.0",
   "private": true,
+  "author": "Paulo Sergio de Freitas Junior",
+  "description": "Atividade com Redis. Montagem de CRUD básico com Redis",
+  "main": "app.js",
   "scripts": {
     "start": "node ./bin/www"
   },
